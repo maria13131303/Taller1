@@ -6,7 +6,7 @@ import modelo.Sapito;
 import modelo.Mosca;
 import vista.InterfazBitsi;
 import vista.MapaDeJuego;
-
+//Chale
 public class Controlador {
 	int[][] tablero;
 	int dificultad;
